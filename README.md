@@ -11,3 +11,5 @@ Instrucciones de instalación
 2 - Importar el script para crear la BD con el nombre "hospital" (importante)
 3 - Arrastrar todo el contenido del repositorio en htdocs
 4 - Ir al navegador y escribir la ruta.
+
+Hecho por Joel Garrote y Brais Feal.
